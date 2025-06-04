@@ -1,4 +1,4 @@
-# 🐼 Panda Login & Signup Page
+![Screenshot 2025-06-04 104009](https://github.com/user-attachments/assets/d230b73e-ad84-4229-bcf3-3a3b0257c08a)# 🐼 Panda Login & Signup Page
 
 A **responsive** and **animated** Login/Signup interface with a cute CSS Panda character, built using **HTML**, **CSS**, and **vanilla JavaScript**. This front-end project is ideal for showcasing your UI/UX skills, with real-time validation, animations, and LocalStorage support.
 
@@ -16,8 +16,8 @@ A **responsive** and **animated** Login/Signup interface with a cute CSS Panda c
 
 ## 📸 Preview
 
-![Screenshot Login](https://github.com/user-attachments/assets/preview-login.png)
-![Screenshot Signup](https://github.com/user-attachments/assets/preview-signup.png)
+![Uploading Screenshot 2025-06-04 103950.png…]()
+![Uploading Screenshot 2025-06-04 104009.png…]()
 
 ## 🛠️ Technologies Used
 
